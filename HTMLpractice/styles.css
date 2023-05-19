@@ -1,0 +1,53 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: blanchedalmond;
+}
+
+img {
+    max-width: 300px;
+    border: solid 1px beige;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 1.2em;
+}
+
+ul > li  {
+    color: rgb(83, 52, 52);
+    display: inline-block;
+   
+  
+  
+   
+}
+
+li {
+    color: rgb(83, 52, 52);
+}
+
+head {
+    color: rgb(213, 15, 186) ;
+}
+
+p {
+    display: inline-block;
+    display: inline-block;
+  border: 1px solid #000;
+  padding: 10px;
+  color: rgb(83, 52, 52);
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, auto);
+    grid-gap: 10px;
+}

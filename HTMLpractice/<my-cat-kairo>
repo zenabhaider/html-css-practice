@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My Cat Kairo</title>
+       
+    </head>
+    <body>
+        <header>
+            <h1>My Cat Kairo</h1>
+        </header>
+        <main>
+            <p>
+                My cat Kairo is a silver British Shorthair cat. He has just recently turned 1 year old. 
+            </p>
+            <p>
+                He is an extremely lazy cat, however he is very smart and gets random bursts of lots of energy.
+            </p>
+            <p>
+                <img src="https://images.app.goo.gl/z9PRtEvUaXPc8XaD7" alt="My cat Kairo">
+            </p>
+            <p>
+                <h2>Kairo's Favourite Toys</h2>
+                <ul>
+                    <li>Bouncy balls</li>
+                    <li>Toy Fishing Rod</li>
+                    <li>Stuffed horse teddy</li>
+                </ul>
+                <h2>Kairo's Top Favourite Foods</h2>
+                <ol>
+                    <li>Licky Lick Treats</li>
+                    <li>Yoghurt</li>
+                    <li>Eggs</li>
+                </ol>
+            </p>
+        </main>
+        <footer> 
+            <a href="http://127.0.0.1:5500/%3C!DOCTYPE%20html%3E.html">Check this out for info about my parrot!</a>
+        </footer>
+    </body>
+</html>
